@@ -18,3 +18,4 @@ This project contains the minimum setup code required to run an Express API. How
 Follow the instructions in the checkpoint for implementing the API.
 
 If you have trouble, reach out for assistance.
+# server-structure-starter
